@@ -59,3 +59,6 @@ section img {
     z-index: 1;
 }
 
+#road {
+    z-index: 2; 
+ }
